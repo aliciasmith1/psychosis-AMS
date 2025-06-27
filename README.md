@@ -5,7 +5,7 @@ This repository contains all R code used in the analyses and visualisations for 
 ## Analyses Included
 
 - **Descriptive statistics**
-- **Longitudinal regression models** (logistic regression)
+- **Logistic regression models**
 - **Subgroup analyses** by memory cue valence (e.g., negative vs positive cues)
 - **Multiple imputation** and re-analysis
 - **Model diagnostics** and robustness checks
