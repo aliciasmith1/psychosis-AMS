@@ -15,8 +15,8 @@ This repository contains all R code used in the analyses and visualisations for 
 
 This project was developed in R (version >= 4.2.0). Key packages used include:
 
-psych
-stats
-VIM
-dplyr
-mice
+- psych
+- stats
+- VIM
+- dplyr
+- mice
